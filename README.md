@@ -23,6 +23,6 @@
   <a href="https://www.mysql.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="80" height="40"/> </a>
   </p>
   
-  <h3 align="left">Connect with me:</h3>
+
   
 
